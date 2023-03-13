@@ -2,8 +2,7 @@ let dayNumber = Math.floor(Math.random()*7) // random number
 
 if(dayNumber == 0){
   console.log('Sunday')
-}
-else if(dayNumber == 1){
+}else if(dayNumber == 1){
   console.log('Monday')
 }else if(dayNumber == 2){
   console.log('Tuesday')
